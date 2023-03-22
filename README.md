@@ -35,3 +35,6 @@ function test() {
 ![imagen](https://github.com/Jeffstylees/Tarea-16/blob/main/imagen/imagen.jpg)
 
 ![imagen2](https://github.com/Jeffstylees/Tarea-16/blob/main/imagen/imagen2.jpg)
+
+git add .
+git commit -m "commit inicial"
