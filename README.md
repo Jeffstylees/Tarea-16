@@ -31,4 +31,5 @@ function test() {
 | Columna 2,1 | Columna 2,2 | Columna 2,3 | Columna 2,4 | Columna 2,5 |
 | Columna 3,1 | Columna 3,2 | Columna 3,3 | Columna 3,4 | Columna 3,5 |
 | Columna 4,1 | Columna 4,2 | Columna 4,3 | Columna 4,4 | Columna 4,5 |
-![imagen.png](
+
+![imagen.png](https://github.com/Jeffstylees/Tarea-16/blob/main/imagen/imagen.jpg)
