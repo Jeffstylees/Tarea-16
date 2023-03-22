@@ -3,13 +3,15 @@
 ## Título 2:
 ### Título 3:
 
+IMAGÉNES
+
 ![imagen](https://github.com/Jeffstylees/Tarea-16/blob/main/imagen/imagen.jpg)
 
 ![imagen2](https://github.com/Jeffstylees/Tarea-16/blob/main/imagen/imagen2.jpg)
 
 Esto es un ***texto***
 
-Y vamos a crear los enlances:
+Enlances:
 
 [Pc](https://www.pccomponentes.com/sobremesa?campaigntype=rb&campaignchannel=busqueda&gclid=Cj0KCQjwn9CgBhDjARIsAD15h0CvjcG5sw-hFa5e0EAwjGXgltJY1J-b2S-3SFyzkSkZ45FdDiiThuAaAvPVEALw_wcB)
 
