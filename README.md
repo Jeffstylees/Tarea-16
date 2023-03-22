@@ -7,12 +7,14 @@ Esto es un ***texto***
 
 Y vamos a crear los enlances:
 
-[EnlacePc](https://www.pccomponentes.com/sobremesa?campaigntype=rb&campaignchannel=busqueda&gclid=Cj0KCQjwn9CgBhDjARIsAD15h0CvjcG5sw-hFa5e0EAwjGXgltJY1J-b2S-3SFyzkSkZ45FdDiiThuAaAvPVEALw_wcB)
+[Pc](https://www.pccomponentes.com/sobremesa?campaigntype=rb&campaignchannel=busqueda&gclid=Cj0KCQjwn9CgBhDjARIsAD15h0CvjcG5sw-hFa5e0EAwjGXgltJY1J-b2S-3SFyzkSkZ45FdDiiThuAaAvPVEALw_wcB)
 
 
-[EnlaceAmazon](https://www.amazon.es/?&tag=hydesnav-21&ref=pd_sl_781oit2196_e&adgrpid=55589983189&hvpone=&hvptwo=&hvadid=366505385428&hvpos=&hvnetw=g&hvrand=16821132111315884245&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005407&hvtargid=kwd-10573980&hydadcr=4855_1809862)
+[Amazon](https://www.amazon.es/?&tag=hydesnav-21&ref=pd_sl_781oit2196_e&adgrpid=55589983189&hvpone=&hvptwo=&hvadid=366505385428&hvpos=&hvnetw=g&hvrand=16821132111315884245&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005407&hvtargid=kwd-10573980&hydadcr=4855_1809862)
 
-[EnlaceAliExpress](https://es.aliexpress.com/?gatewayAdapt=glo2esp)
+[AliExpress](https://es.aliexpress.com/?gatewayAdapt=glo2esp)
+
+[IES AGUADULCE](https://www.iesaguadulce.es/centro/index.php/)
 
 ```
 function test() {
