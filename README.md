@@ -41,6 +41,8 @@ function test() {
 | Columna 4,1 | Columna 4,2 | Columna 4,3 | Columna 4,4 | Columna 4,5 |
 
 
+[Página Informacion](https://github.com/Jeffstylees/Tarea-16/blob/69d1c9ed772de464244443514492f22ffdec4830/informacion.md)
+
 
 
 
