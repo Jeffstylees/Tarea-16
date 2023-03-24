@@ -40,9 +40,8 @@ function test() {
 | Columna 3,1 | Columna 3,2 | Columna 3,3 | Columna 3,4 | Columna 3,5 |
 | Columna 4,1 | Columna 4,2 | Columna 4,3 | Columna 4,4 | Columna 4,5 |
 
-[Página Informacion](https://github.com/Jeffstylees/Tarea16_B/blob/7d90c6f369efcb83b5239bd1a63d4b76557cf84f/informacion.md)
+[Página Informacion](https://github.com/Jeffstylees/Tarea16_B/blob/e4362ac4c1c5230ae2da17797fc1576b1d0ed80a/informacion.md)
 
-[Página Instalacion](https://github.com/Jeffstylees/Tarea16_B/blob/dc7deb4c8a37f9529612a4923b93e7735d6cbc7e/instalacion.md)
 
 
 
