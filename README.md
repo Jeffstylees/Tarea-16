@@ -29,7 +29,7 @@ function test() {
 ```
 ```HTML
 <head>
-    <title>Alejandro es mi tonto</title>
+    <title>Alejandro es tonto</title>
 </head>
 ```
 
