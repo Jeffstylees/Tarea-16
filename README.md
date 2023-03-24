@@ -43,6 +43,8 @@ function test() {
 
 [Página Informacion](https://github.com/Jeffstylees/Tarea-16/blob/69d1c9ed772de464244443514492f22ffdec4830/informacion.md)
 
+[Página Instalacion](https://github.com/Jeffstylees/Tarea-16/blob/0512bf5548ee2858ecc8d4d1d3c30c2fc4d64d61/instalacion.md)
+
 
 
 
